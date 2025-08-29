@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+pandas
+python-dateutil
+pytz
+gspread
+google-auth
+scikit-learn
+numpy
